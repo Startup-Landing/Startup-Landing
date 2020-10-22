@@ -1,8 +1,7 @@
 # [Startup-Landing](https://startuplanding.redq.io)
 
 ```Welcome to Startup Landing! We've brought you a great collection of absolutely free landing pages built with React, Next JS & Gatsby JS. Every week, We will add super-fast mobile-optimized demos on different niches from our collection. And yes, it's completely free 🔥.
-Download from here : https://startuplanding.redq.io
-```
+Download from here : https://startuplanding.redq.io```
 
 # Templates:
 
