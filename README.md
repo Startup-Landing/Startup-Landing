@@ -4,6 +4,11 @@ Welcome to Startup Landing! We've brought you a great collection of absolutely f
 
 # Templates:
 
+## [Hosting Classic](https://startup-hosting-classic.vercel.app)
+
+[![Hosting Classic](https://s3.amazonaws.com/redqteam.com/startupio/github_hosting_classic.png)](https://startup-hosting-classic.vercel.app)
+---
+
 ## [Hosting Provider](https://startup-hosting-provider.vercel.app)
 
 [![Hosting Provider](https://s3.amazonaws.com/redqteam.com/startupio/github-hosting.png)](https://startup-hosting-provider.vercel.app)
