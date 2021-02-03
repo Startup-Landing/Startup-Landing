@@ -54,7 +54,7 @@ Welcome to Startup Landing! We've brought you a great collection of absolutely f
 [![Saas Classic](https://s3.amazonaws.com/redqteam.com/startupio/Frame_32.png)](https://startup-saas-classic.vercel.app)
 ---
 
-## [Agency Minimal](https://startup-agency-modern.vercel.app)
+## [Agency Minimal](https://startup-agency-minimal.vercel.app)
 
 [![Agency Minimal](https://s3.amazonaws.com/redqteam.com/startupio/Frame_29.png)](https://startup-agency-minimal.vercel.app)
 ---
