@@ -3,6 +3,15 @@
 Welcome to Startup Landing! We've brought you a great collection of absolutely free landing pages built with React, Next JS & Gatsby JS. Every week, We will add super-fast mobile-optimized demos on different niches from our collection. And yes, it's completely free 🔥.
 
 # Templates:
+## [Agency Beta](https://startup-agency-beta.vercel.app)
+
+[![Agency Beta](https://s3.amazonaws.com/redqteam.com/startupio/agency-beta-github.png)](https://startup-agency-beta.vercel.app)
+---
+
+## [Startup Agency](https://startup-agency.vercel.app)
+
+[![Startup Agency](https://s3.amazonaws.com/redqteam.com/startupio/startup_github.png)](https://startup-agency.vercel.app)
+---
 
 ## [Hosting Classic](https://startup-hosting-classic.vercel.app)
 
@@ -34,27 +43,27 @@ Welcome to Startup Landing! We've brought you a great collection of absolutely f
 [![Agency Modern](https://s3.amazonaws.com/redqteam.com/startupio/Frame_28.png)](https://startup-agency-modern.vercel.app)
 ---
 
-## [Agency Classic](https://startup-agency-modern.vercel.app)
+## [Agency Classic](https://startup-agency-classic.vercel.app)
 
 [![Agency Classic](https://s3.amazonaws.com/redqteam.com/startupio/Frame_31.png)](https://startup-agency-classic.vercel.app)
 ---
 
-## [Saas Modern](https://startup-agency-modern.vercel.app)
+## [Saas Modern](https://startup-saas-modern.vercel.app)
 
 [![Saas Modern](https://s3.amazonaws.com/redqteam.com/startupio/Frame_30.png)](https://startup-saas-modern.vercel.app)
 ---
 
-## [App Modern](https://startup-agency-modern.vercel.app)
+## [App Modern](https://startup-app-modern.vercel.app)
 
 [![App Modern](https://s3.amazonaws.com/redqteam.com/startupio/Frame_27.png)](https://startup-app-modern.vercel.app)
 ---
 
-## [Saas Classic](https://startup-agency-modern.vercel.app)
+## [Saas Classic](https://startup-saas-classic.vercel.app)
 
 [![Saas Classic](https://s3.amazonaws.com/redqteam.com/startupio/Frame_32.png)](https://startup-saas-classic.vercel.app)
 ---
 
-## [Agency Minimal](https://startup-agency-modern.vercel.app)
+## [Agency Minimal](https://startup-agency-minimal.vercel.app)
 
 [![Agency Minimal](https://s3.amazonaws.com/redqteam.com/startupio/Frame_29.png)](https://startup-agency-minimal.vercel.app)
 ---
