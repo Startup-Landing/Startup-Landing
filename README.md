@@ -3,6 +3,12 @@
 Welcome to Startup Landing! We've brought you a great collection of absolutely free landing pages built with React, Next JS & Gatsby JS. Every week, We will add super-fast mobile-optimized demos on different niches from our collection. And yes, it's completely free 🔥.
 
 # Templates:
+
+## [Crypto Classic](https://startup-crypto-classic.vercel.app)
+
+[![Crypto Classic](https://s3.amazonaws.com/redqteam.com/startupio/crypto-classic-github.png)](https://startup-crypto-classic.vercel.app)
+---
+
 ## [Agency Beta](https://startup-agency-beta.vercel.app)
 
 [![Agency Beta](https://s3.amazonaws.com/redqteam.com/startupio/agency-beta-github.png)](https://startup-agency-beta.vercel.app)
